@@ -1,0 +1,11 @@
+{
+  "name": "mui.js",
+  "version": "0.0.3",
+  "main": "src/index.js",
+  "license": "MIT",
+  "author": "lei.wang@wuage.com",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:night-owl-fe/mui.js.git"
+  }
+}
